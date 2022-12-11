@@ -1,2 +1,3 @@
 .vscode
 .github/actions/hello-world/node_modules
+.github/actions/joke-action/node_modules
